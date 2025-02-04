@@ -45,6 +45,13 @@ In recent years, foundation models have fundamentally revolutionized the state-o
 - Mid-term exam (30%);
 - Final exam (50%).
 
+## Homework 
+| Topic | Release |   Due   |
+|-------|---------|---------|
+| Homework1 |2025/02/13 | 2025/02/22 |
+| Homework2 |2025/03/04 | 2025/03/12 |
+| Homework3 |2025/03/20 | 2025/04/01 |
+| Homework4 |2025/04/22 | 2025/04/31 |
 
 
 
