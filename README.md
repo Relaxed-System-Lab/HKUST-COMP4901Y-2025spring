@@ -24,20 +24,20 @@ In recent years, foundation models have fundamentally revolutionized the state-o
 
 | Date | Topic |
 |-----|------|
-|W1-02/04,02/06 | Introduction and Logistics [[Slides]]()  &  ML Preliminary [[Slides]] |
-|W2-02/11,02/13 | Stochastic Gradient Descent [[Slides]] & Automatic Differentiation [[Slides]]|
-|W3-02/18,02/20 | Language Model Architecture [[Slides]] & Large Scale Pretrain Overview [[Slides]] |
-|W4-02/25,02/27 | Nvidia GPU Performance [[Slides]] & Collective Communication Library [[Slides]] |
-|W5-03/04,03/06 | Data-, Pipeline- Parallel Training [[Slides]] & Tensor Model-, Optimizer- Parallel Training [[Slides]] |
-|W6-03/11,03/13 | Sequence-, MoE- parallelism [[Slides]] & Mid-Term Review [[Slides]] |
-|W7-03/18,03/20 | Mid-Term Exam & Generative Inference [[Slides]] |
-|W8–03/25,03/27 | Inference Alogirhtm Optimizations [[Slides]] & Inference System Optimizations [[Slides]]|
+|W1-02/04,02/06 | Introduction and Logistics [[Slides]]()  &  ML Preliminary |
+|W2-02/11,02/13 | Stochastic Gradient Descent & Automatic Differentiation |
+|W3-02/18,02/20 | Language Model Architecture & Large Scale Pretrain Overview |
+|W4-02/25,02/27 | Nvidia GPU Performance  & Collective Communication Library  |
+|W5-03/04,03/06 | Data-, Pipeline- Parallel Training & Tensor Model-, Optimizer- Parallel Training |
+|W6-03/11,03/13 | Sequence-, MoE- parallelism & Mid-Term Review  |
+|W7-03/18,03/20 | Mid-Term Exam & Generative Inference |
+|W8–03/25,03/27 | Inference Alogirhtm Optimizations  & Inference System Optimizations |
 |W9-04/01,04/03 | Spring Break |
-|W10-04/08,04/10 | Prompt Engineering [[Slides]] & Inference Scaling [[Slides]] |
-|W11-04/15,04/17 | RAG [[Slides]] &  LLM Agent [[Slides]] |
-|W12-04/22,04/24 | Parameter Efficient Fine-Tuning [[Slides]] & RL Alignment [[Slides]] |
-|W13-04/29        | LLM Evaluation [[Slides]] |
-|W14-05/06,05/08 | Guest Speech & Final Review [[Slides]]|
+|W10-04/08,04/10 | Prompt Engineering & Inference Scaling |
+|W11-04/15,04/17 | RAG  &  LLM Agent  |
+|W12-04/22,04/24 | Parameter Efficient Fine-Tuning & RL Alignment |
+|W13-04/29       | LLM Evaluation  |
+|W14-05/06,05/08 | Guest Speech & Final Review|
 
 
 ## Grading Policy
