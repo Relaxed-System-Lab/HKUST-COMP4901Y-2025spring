@@ -48,7 +48,7 @@ In recent years, foundation models have fundamentally revolutionized the state-o
 ## Homework 
 | Topic | Release |   Due   |
 |-------|---------|---------|
-| Homework1 |2025/02/13 | 2025/02/22 |
+| [Homework1](https://github.com/Relaxed-System-Lab/HKUST-COMP4901Y-2025spring/tree/main/homework1) |2025/02/13 :heavy_check_mark: | 2025/02/22 |
 | Homework2 |2025/03/04 | 2025/03/12 |
 | Homework3 |2025/03/20 | 2025/04/01 |
 | Homework4 |2025/04/22 | 2025/04/31 |
