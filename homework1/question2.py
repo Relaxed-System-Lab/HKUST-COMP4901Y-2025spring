@@ -9,7 +9,7 @@ torch.manual_seed(seed)
 
 iters = int(1e5)
 N, D, H = 500, 64, 64
-lr = 1e-1
+lr = 0.03
 # ==========================
 
 
