@@ -26,7 +26,7 @@ In recent years, foundation models have fundamentally revolutionized the state-o
 |-----|------|
 |W1-02/04,02/06 | Introduction and Logistics [[Slides]](https://github.com/Relaxed-System-Lab/HKUST-COMP4901Y-2025spring/blob/main/Lecture%201%20-%20Introduction%20and%20Logistics.pdf)  &  ML Preliminary [[Slides]](https://github.com/Relaxed-System-Lab/HKUST-COMP4901Y-2025spring/blob/main/Lecture%202%20-%20Machine%20Learning%20Preliminary.pdf) [[Notebook]](https://github.com/Relaxed-System-Lab/HKUST-COMP4901Y-2025spring/blob/main/lecture-notebook/Lecture-2.ipynb) |
 |W2-02/11,02/13 | Stochastic Gradient Descent [[Slides]](https://github.com/Relaxed-System-Lab/HKUST-COMP4901Y-2025spring/blob/main/Lecture%203%20-%20Stochastic%20Gradient%20Descent.pdf) [[Notebook]](https://github.com/Relaxed-System-Lab/HKUST-COMP4901Y-2025spring/blob/main/lecture-notebook/Lecture-3.ipynb) & Automatic Differentiation [[Slides]](https://github.com/Relaxed-System-Lab/HKUST-COMP4901Y-2025spring/blob/main/Lecture%204%20-%20Automatic%20Differentiation.pdf) [[Notebook]](https://github.com/Relaxed-System-Lab/HKUST-COMP4901Y-2025spring/blob/main/lecture-notebook/Lecture-4.ipynb) |
-|W3-02/18,02/20 | Language Model Architecture & Large Scale Pretrain Overview |
+|W3-02/18,02/20 | Language Model Architecture [[Slides]](https://github.com/Relaxed-System-Lab/HKUST-COMP4901Y-2025spring/blob/main/Lecture%205%20-%20Language%20Model%20Architecture.pdf) & Large Scale Pretrain Overview |
 |W4-02/25,02/27 | Nvidia GPU Performance  & Collective Communication Library  |
 |W5-03/04,03/06 | Data-, Pipeline- Parallel Training & Tensor Model-, Optimizer- Parallel Training |
 |W6-03/11,03/13 | Sequence-, MoE- parallelism & Mid-Term Review  |
