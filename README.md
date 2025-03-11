@@ -29,7 +29,7 @@ In recent years, foundation models have fundamentally revolutionized the state-o
 |W3-02/18,02/20 | Language Model Architecture [[Slides]](https://github.com/Relaxed-System-Lab/HKUST-COMP4901Y-2025spring/blob/main/Lecture%205%20-%20Language%20Model%20Architecture.pdf) & Large Scale Pretrain Overview [[Slides]](https://github.com/Relaxed-System-Lab/HKUST-COMP4901Y-2025spring/blob/main/Lecture%206%20-%20LLM%20Pretraining.pdf) |
 |W4-02/25,02/27 | Nvidia GPU Performance [[Slides]](https://github.com/Relaxed-System-Lab/HKUST-COMP4901Y-2025spring/blob/main/Lecture%207%20-%20Nvidia%20GPU%20Performance.pdf)  & Collective Communication Library [[Slides]](https://github.com/Relaxed-System-Lab/HKUST-COMP4901Y-2025spring/blob/main/Lecture%208%20-%20Nvidia%20Collective%20Communication%20Library.pdf)  |
 |W5-03/04,03/06 | Data-, Pipeline- Parallel Training [[Slides]](https://github.com/Relaxed-System-Lab/HKUST-COMP4901Y-2025spring/blob/main/Lecture%209%20-%20Data%20and%20Pipeline%20Parallel%20Training.pdf) & Tensor Model-, Optimizer- Parallel Training [[Slides]](https://github.com/Relaxed-System-Lab/HKUST-COMP4901Y-2025spring/blob/main/Lecture%2010%20-%20Tensor%20Model%20and%20Optimizer%20Parallel%20Training.pdf) |
-|W6-03/11,03/13 | Sequence-, MoE- parallelism & Mid-Term Review  |
+|W6-03/11,03/13 | Sequence-, MoE- parallelism [[Slides]](https://github.com/Relaxed-System-Lab/HKUST-COMP4901Y-2025spring/blob/main/Lecture%2011%20-%20MoE%20and%20Sequence%20Parallelism.pdf) & Mid-Term Review  |
 |W7-03/18,03/20 | Mid-Term Exam & Generative Inference |
 |W8–03/25,03/27 | Inference Alogirhtm Optimizations  & Inference System Optimizations |
 |W9-04/01,04/03 | Spring Break |
