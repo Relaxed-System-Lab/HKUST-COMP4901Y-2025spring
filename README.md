@@ -30,7 +30,7 @@ In recent years, foundation models have fundamentally revolutionized the state-o
 |W4-02/25,02/27 | Nvidia GPU Performance [[Slides]](https://github.com/Relaxed-System-Lab/HKUST-COMP4901Y-2025spring/blob/main/Lecture%207%20-%20Nvidia%20GPU%20Performance.pdf)  & Collective Communication Library [[Slides]](https://github.com/Relaxed-System-Lab/HKUST-COMP4901Y-2025spring/blob/main/Lecture%208%20-%20Nvidia%20Collective%20Communication%20Library.pdf)  |
 |W5-03/04,03/06 | Data-, Pipeline- Parallel Training [[Slides]](https://github.com/Relaxed-System-Lab/HKUST-COMP4901Y-2025spring/blob/main/Lecture%209%20-%20Data%20and%20Pipeline%20Parallel%20Training.pdf) & Tensor Model-, Optimizer- Parallel Training [[Slides]](https://github.com/Relaxed-System-Lab/HKUST-COMP4901Y-2025spring/blob/main/Lecture%2010%20-%20Tensor%20Model%20and%20Optimizer%20Parallel%20Training.pdf) |
 |W6-03/11,03/13 | Sequence-, MoE- parallelism [[Slides]](https://github.com/Relaxed-System-Lab/HKUST-COMP4901Y-2025spring/blob/main/Lecture%2011%20-%20MoE%20and%20Sequence%20Parallelism.pdf) & Mid-Term Review [[Slides]](https://github.com/Relaxed-System-Lab/HKUST-COMP4901Y-2025spring/blob/main/Lecture%2012%20-%20Midterm%20Review.pdf) |
-|W7-03/18,03/20 | Mid-Term Exam & Generative Inference |
+|W7-03/18,03/20 | Mid-Term Exam :heavy_check_mark: & Generative Inference [[Slides]](https://github.com/Relaxed-System-Lab/HKUST-COMP4901Y-2025spring/blob/main/Lecture%2013%20-%20Generative%20Inference%20Overview.pdf)  [[Notebook]](https://github.com/Relaxed-System-Lab/HKUST-COMP4901Y-2025spring/blob/main/lecture-notebook/Lecture-13.ipynb)  |
 |W8–03/25,03/27 | Inference Alogirhtm Optimizations  & Inference System Optimizations |
 |W9-04/01,04/03 | Spring Break |
 |W10-04/08,04/10 | Prompt Engineering & Inference Scaling |
@@ -49,9 +49,9 @@ In recent years, foundation models have fundamentally revolutionized the state-o
 | Topic | Release |   Due   |
 |-------|---------|---------|
 | [Homework1](https://github.com/Relaxed-System-Lab/HKUST-COMP4901Y-2025spring/tree/main/homework1) |2025/02/13 :heavy_check_mark: | 2025/02/22 :heavy_check_mark:|
-| [Homework2](https://github.com/Relaxed-System-Lab/HKUST-COMP4901Y-2025spring/tree/main/homework2) |2025/03/04 :heavy_check_mark: | 2025/03/12 |
-| Homework3 |2025/03/20 | 2025/04/01 |
-| Homework4 |2025/04/22 | 2025/04/31 |
+| [Homework2](https://github.com/Relaxed-System-Lab/HKUST-COMP4901Y-2025spring/tree/main/homework2) |2025/03/04 :heavy_check_mark: | 2025/03/12 :heavy_check_mark: |
+| Homework3 |2025/03/25 | 2025/04/10 |
+| Homework4 |2025/04/22 | 2025/05/06 |
 
 
 
