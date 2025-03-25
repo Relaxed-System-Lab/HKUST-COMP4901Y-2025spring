@@ -50,7 +50,7 @@ In recent years, foundation models have fundamentally revolutionized the state-o
 |-------|---------|---------|
 | [Homework1](https://github.com/Relaxed-System-Lab/HKUST-COMP4901Y-2025spring/tree/main/homework1) |2025/02/13 :heavy_check_mark: | 2025/02/22 :heavy_check_mark:|
 | [Homework2](https://github.com/Relaxed-System-Lab/HKUST-COMP4901Y-2025spring/tree/main/homework2) |2025/03/04 :heavy_check_mark: | 2025/03/12 :heavy_check_mark: |
-| Homework3 |2025/03/25 | 2025/04/10 |
+| [Homework3](https://github.com/Relaxed-System-Lab/HKUST-COMP4901Y-2025spring/tree/main/homework3) |2025/03/25 :heavy_check_mark: | 2025/04/10 |
 | Homework4 |2025/04/22 | 2025/05/06 |
 
 
