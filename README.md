@@ -33,7 +33,7 @@ In recent years, foundation models have fundamentally revolutionized the state-o
 |W7-03/18,03/20 | - Mid-Term Exam :heavy_check_mark: <br> - Generative Inference [[Slides]](https://github.com/Relaxed-System-Lab/HKUST-COMP4901Y-2025spring/blob/main/Lecture%2013%20-%20Generative%20Inference%20Overview.pdf)  [[Notebook]](https://github.com/Relaxed-System-Lab/HKUST-COMP4901Y-2025spring/blob/main/lecture-notebook/Lecture-13.ipynb)  |
 |W8–03/25,03/27 | - Inference Alogirhtm Optimizations [[Slides]](https://github.com/Relaxed-System-Lab/HKUST-COMP4901Y-2025spring/blob/main/Lecture%2014%20-%20Generative%20Inference%20Algorithm%20Optimization.pdf) <br> - Inference System Optimizations [[Slides]](https://github.com/Relaxed-System-Lab/HKUST-COMP4901Y-2025spring/blob/main/Lecture%2015%20-%20Generative%20Inference%20System%20Optimization.pdf) |
 |W9-04/01,04/03 | - Spring Break |
-|W10-04/08,04/10 | - Prompt Engineering [[Slides]](https://github.com/Relaxed-System-Lab/HKUST-COMP4901Y-2025spring/blob/main/Lecture%2016%20-%20Prompt%20Engineering.pdf) <br> - Inference Scaling |
+|W10-04/08,04/10 | - Prompt Engineering [[Slides]](https://github.com/Relaxed-System-Lab/HKUST-COMP4901Y-2025spring/blob/main/Lecture%2016%20-%20Prompt%20Engineering.pdf) <br> - Inference Scaling [[Slides]](https://github.com/Relaxed-System-Lab/HKUST-COMP4901Y-2025spring/blob/main/Lecture%2017%20-%20%20Inference%20Time%20Scaling.pdf) |
 |W11-04/15,04/17 | - RAG  <br>  - LLM Agent  |
 |W12-04/22,04/24 | - Parameter Efficient Fine-Tuning <be> - RL Alignment |
 |W13-04/29       | - LLM Evaluation  |
