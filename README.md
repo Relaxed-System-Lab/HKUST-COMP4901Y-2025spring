@@ -35,7 +35,7 @@ In recent years, foundation models have fundamentally revolutionized the state-o
 |W9-04/01,04/03 | - Spring Break |
 |W10-04/08,04/10 | - Prompt Engineering [[Slides]](https://github.com/Relaxed-System-Lab/HKUST-COMP4901Y-2025spring/blob/main/Lecture%2016%20-%20Prompt%20Engineering.pdf) <br> - Inference Scaling [[Slides]](https://github.com/Relaxed-System-Lab/HKUST-COMP4901Y-2025spring/blob/main/Lecture%2017%20-%20%20Inference%20Time%20Scaling.pdf) |
 |W11-04/15,04/17 | - Retrieval Augmented Generation [[Slides]](https://github.com/Relaxed-System-Lab/HKUST-COMP4901Y-2025spring/blob/main/Lecture%2018%20-%20Retrieval%20Augmented%20Generation.pdf)  <br>  - LLM Agent [[Slides]](https://github.com/Relaxed-System-Lab/HKUST-COMP4901Y-2025spring/blob/main/Lecture%2019%20-%20LLM%20Agent.pdf)  |
-|W12-04/22,04/24 | - Parameter Efficient Fine-Tuning [[Slides]](https://github.com/Relaxed-System-Lab/HKUST-COMP4901Y-2025spring/blob/main/Lecture%2020%20-%20Parameter%20Efficient%20Finetuning.pdf) [[Notebook]](https://github.com/Relaxed-System-Lab/HKUST-COMP4901Y-2025spring/blob/main/lecture-notebook/Lecture-20.ipynb) <br> - RL Alignment |
+|W12-04/22,04/24 | - Parameter Efficient Fine-Tuning [[Slides]](https://github.com/Relaxed-System-Lab/HKUST-COMP4901Y-2025spring/blob/main/Lecture%2020%20-%20Parameter%20Efficient%20Finetuning.pdf) [[Notebook]](https://github.com/Relaxed-System-Lab/HKUST-COMP4901Y-2025spring/blob/main/lecture-notebook/Lecture-20.ipynb) <br> - RL Alignment [[Slides]](https://github.com/Relaxed-System-Lab/HKUST-COMP4901Y-2025spring/blob/main/Lecture%2021%20-%20RL%20Alignment.pdf) |
 |W13-04/29       | - LLM Evaluation  |
 |W14-05/06,05/08 | - Guest Speech <br> - Final Review|
 
