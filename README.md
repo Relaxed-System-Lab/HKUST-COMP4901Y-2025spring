@@ -1,7 +1,3 @@
-<div style="text-align:center">
-<a href="https://hkust.edu.hk/"><img src="https://hkust.edu.hk/sites/default/files/images/UST_L3.svg" height="45"></a>
-
-
 # COMP4901Y 2025 Spring
 
 </div>
@@ -37,7 +33,7 @@ In recent years, foundation models have fundamentally revolutionized the state-o
 |W11-04/15,04/17 | - Retrieval Augmented Generation [[Slides]](https://github.com/Relaxed-System-Lab/HKUST-COMP4901Y-2025spring/blob/main/Lecture%2018%20-%20Retrieval%20Augmented%20Generation.pdf)  <br>  - LLM Agent [[Slides]](https://github.com/Relaxed-System-Lab/HKUST-COMP4901Y-2025spring/blob/main/Lecture%2019%20-%20LLM%20Agent.pdf)  |
 |W12-04/22,04/24 | - Parameter Efficient Fine-Tuning [[Slides]](https://github.com/Relaxed-System-Lab/HKUST-COMP4901Y-2025spring/blob/main/Lecture%2020%20-%20Parameter%20Efficient%20Finetuning.pdf) [[Notebook]](https://github.com/Relaxed-System-Lab/HKUST-COMP4901Y-2025spring/blob/main/lecture-notebook/Lecture-20.ipynb) <br> - RL Alignment [[Slides]](https://github.com/Relaxed-System-Lab/HKUST-COMP4901Y-2025spring/blob/main/Lecture%2021%20-%20RL%20Alignment.pdf) |
 |W13-04/29       | - LLM Evaluation [[Slides]](https://github.com/Relaxed-System-Lab/HKUST-COMP4901Y-2025spring/blob/main/Lecture%2022%20-%20LLM%20Evaluation.pdf) |
-|W14-05/06,05/08 | - Guest Speech <br> - Final Review|
+|W14-05/06,05/08 | - Guest Speech [[Slides]](https://github.com/Relaxed-System-Lab/HKUST-COMP4901Y-2025spring/blob/main/Lecture%2023%20-%20Guest%20Speech%20Relaxed%20System%20Lab%20Research%20Roadmap.pdf) <br> - Final Review|
 
 
 ## Grading Policy
@@ -49,9 +45,9 @@ In recent years, foundation models have fundamentally revolutionized the state-o
 | Topic | Release |   Due   |
 |-------|---------|---------|
 | [Homework1](https://github.com/Relaxed-System-Lab/HKUST-COMP4901Y-2025spring/tree/main/homework1) |2025/02/13 :heavy_check_mark: | 2025/02/22 :heavy_check_mark:|
-| [Homework2](https://github.com/Relaxed-System-Lab/HKUST-COMP4901Y-2025spring/tree/main/homework2) |2025/03/04 :heavy_check_mark: | 2025/03/12 :heavy_check_mark: |
+| [Homework2](https://github.com/Relaxed-System-Lab/HKUST-COMP4901Y-2025spring/tree/main/homework2) |2025/03/04 :heavy_check_mark: | 2025/03/12 :heavy_check_mark:|
 | [Homework3](https://github.com/Relaxed-System-Lab/HKUST-COMP4901Y-2025spring/tree/main/homework3) |2025/03/25 :heavy_check_mark: | 2025/04/10 :heavy_check_mark:|
-| [Homework4](https://github.com/Relaxed-System-Lab/HKUST-COMP4901Y-2025spring/tree/main/homework4) |2025/04/22 :heavy_check_mark: | 2025/05/06 |
+| [Homework4](https://github.com/Relaxed-System-Lab/HKUST-COMP4901Y-2025spring/tree/main/homework4) |2025/04/22 :heavy_check_mark: | 2025/05/06 :heavy_check_mark:|
 
 
 
